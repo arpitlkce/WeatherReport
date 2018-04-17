@@ -6,8 +6,8 @@ How To run
 npm install -g gulp
 
 #after cloning  - 
-npm install
-gulp
+npm install,
+gulp,
 gulp dev
 
 #Unit Test  - 
