@@ -2,14 +2,14 @@
 
 How To run 
 
-#to check gulp is there or not
+#to check gulp is there or not - 
 npm install -g gulp
 
-#after cloning 
+#after cloning  - 
 npm install
 gulp
 gulp dev
 
-#Unit Test 
+#Unit Test  - 
 gulp 
 
