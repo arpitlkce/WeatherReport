@@ -11,5 +11,5 @@ gulp,
 gulp dev
 
 #Unit Test  - 
-gulp 
+gulp OR karma test 
 
